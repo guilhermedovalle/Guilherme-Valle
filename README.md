@@ -46,7 +46,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Python</strong>, <strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d4/AirflowLogo.png](https://www.google.com/imgres?q=apache%20airflow%20aiflow&imgurl=https%3A%2F%2Finnowise.com%2Fwp-content%2Fuploads%2F2022%2F08%2FPic-3-1.png&imgrefurl=https%3A%2F%2Finnowise.com%2Fpt%2Fblog%2Fapache-airflow-introduction%2F&docid=9Fbnlkgk---hCM&tbnid=5S-tgfWi-KhEpM&vet=12ahUKEwiuy4uc0c6OAxU-FrkGHcqZBM4QM3oECCsQAA..i&w=1000&h=900&hcb=2&ved=2ahUKEwiuy4uc0c6OAxU-FrkGHcqZBM4QM3oECCsQAA)" height="40" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" height="30" alt="Airflow Badge" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
