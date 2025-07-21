@@ -50,6 +50,7 @@ Atualmente, estou aprofundando meus estudos em <strong>Python</strong>, <strong>
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermedovalle/guilhermedovalle/output/pacman-contribution-graph.svg">
 </picture>
 
+
 ---
 ###
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
