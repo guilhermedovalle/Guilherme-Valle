@@ -59,27 +59,4 @@ Atualmente, estou aprofundando meus estudos em <strong>Python</strong>, <strong>
 
 ---
 
-<h3 align="left">📈 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
----
-
-<h3 align="left">💡 Vamos nos conectar!</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="mailto:SEUEMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-
-
 ###
