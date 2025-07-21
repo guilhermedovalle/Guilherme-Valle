@@ -48,11 +48,11 @@ Atualmente, estou aprofundando meus estudos em <strong>Python</strong>, <strong>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/A/apache-airflow-logo-1DEAA6B5A0-seeklogo.com.png" height="40" alt="Airflow" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d4/AirflowLogo.png" height="40" alt="Airflow" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Microsoft_Power_BI_Logo.svg" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="40" alt="Power BI" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
 </div>
