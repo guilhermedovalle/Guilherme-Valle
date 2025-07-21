@@ -18,11 +18,11 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Ola pessoal 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Sobre mim</h3>
 
 ###
 
