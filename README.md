@@ -36,7 +36,22 @@ Atualmente, estou aprofundando meus estudos em <strong>Python</strong>, <strong>
 </ul>
 
 ---
+###
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=guilhermedovalle&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=guilhermedovalle&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermedovalle/guilhermedovalle/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermedovalle/guilhermedovalle/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/guilhermedovalle/guilhermedovalle/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+###
 <h3 align="left">🛠 Linguagens e Ferramentas</h3>
 
 <div align="left">
